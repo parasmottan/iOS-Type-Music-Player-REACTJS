@@ -1,0 +1,23 @@
+.card{
+  height: 43vh;
+  width: 44vh;
+  background: rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(10px);
+-webkit-backdrop-filter: blur(10px);
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 50px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.tag{
+  text-align: center;
+  font-size: .8vw;
+  opacity: 0.2;
+  height: fit-content;
+  color: #fff;
+  margin-bottom: -1.3vw;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

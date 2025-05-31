@@ -1,0 +1,18 @@
+.main-card{
+
+height: 90%;
+width: 90%;
+background: #000;
+border-radius: 45px;
+position: relative;
+overflow: hidden;
+}
+
+
+.cover-art{
+  height: 100%;
+  width: 100%;
+position: absolute;
+top: 0%;
+left: 0%;
+}

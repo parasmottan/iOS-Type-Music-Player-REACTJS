@@ -1,0 +1,20 @@
+.right{
+padding: 1vw 1vw;
+background: rgba(0, 0, 0, 0.3);
+backdrop-filter: blur(10px);
+-webkit-backdrop-filter: blur(10px);
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 0.5vw;
+}
+
+.heart{
+  cursor: pointer;
+  font-size: 2vw;
+  /* color: #fff; */
+  transition: ease 0.2s all;
+  background-color: transparent;
+}
